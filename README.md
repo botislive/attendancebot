@@ -6,5 +6,13 @@ Create a .env file to store private keys(i.e clg portals username and password, 
 <br>
 <hr>
 FOLDER STRUCTURE:
+<br>
 
 ![Screenshot 2025-06-17 181832](https://github.com/user-attachments/assets/a83970c3-4c96-4543-b215-41f1a6ffef7d)
+<br>
+<hr>
+OUTPUT:
+<br>
+Isn't the most pretty thing but I've got something --
+<br>
+![Screenshot 2025-06-17 182128](https://github.com/user-attachments/assets/b86e2164-352b-43bd-9906-55690da5655c)
